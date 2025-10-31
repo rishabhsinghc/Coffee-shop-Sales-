@@ -1,1 +1,1 @@
-# Coffee-shop-Sales-
+This coffee shop sales dashboard is created using Excel and Advanced Excel techniques to analyze daily transactions, product-wise sales, and customer trends; it features dynamic charts, slicers, pivot tables, and conditional formatting to provide clear insights into top-selling items, peak hours, and revenue performance, making it a practical tool for small business owners to monitor operations and make data-driven decisions.
